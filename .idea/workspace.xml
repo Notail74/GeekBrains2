@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="636" />
+    <option name="y" value="11" />
+    <option name="width" value="974" />
+    <option name="height" value="1047" />
+  </component>
+  <component name="RunManager">
+    <configuration name="ChangeMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="lesson1.ChangeMethod" />
+      <module name="GBrains" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="lesson1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ChangeMethod" />
+      </list>
+    </recent_temporary>
+  </component>
+</project>
